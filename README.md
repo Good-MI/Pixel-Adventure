@@ -4,4 +4,6 @@ Keluh kesah
 
 
 
-sebenernya asaah utama dari membuat game itu kita harus bersabar, kalo ga jadi pusing sendiri sama struktr folder yang ada di godot wkwk
+sebenernya masalah utama dari membuat game itu kita harus bersabar, kalo ga jadi binggung sendiri sama struktur folder yang ada di godot wkwk
+banyak banget tools² yang kita harus explore supaya kita sendiri mengerti fungsinya buat apa.
+itu aja sih....
